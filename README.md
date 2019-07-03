@@ -1,1 +1,1 @@
-# react-cropperjs
+A react component for cropperjs
